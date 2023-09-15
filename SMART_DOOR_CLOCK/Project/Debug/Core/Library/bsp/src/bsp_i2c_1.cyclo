@@ -1,0 +1,2 @@
+../Core/Library/bsp/src/bsp_i2c_1.c:28:6:bsp_i2C_master_transmit	2
+../Core/Library/bsp/src/bsp_i2c_1.c:36:6:bsp_i2c_master_receive	2

@@ -1,0 +1,9 @@
+../Core/Library/bsp/src/bsp_flash.c:21:19:bsp_flash_unlock	3
+../Core/Library/bsp/src/bsp_flash.c:40:19:bsp_flash_lock	1
+../Core/Library/bsp/src/bsp_flash.c:47:19:bsp_flash_program	6
+../Core/Library/bsp/src/bsp_flash.c:96:19:bsp_flashex_erase	6
+../Core/Library/bsp/src/bsp_flash.c:160:6:bsp_flash_mass_erase	3
+../Core/Library/bsp/src/bsp_flash.c:187:6:bsp_flash_program_byte	1
+../Core/Library/bsp/src/bsp_flash.c:200:6:bsp_flash_program_halfword	1
+../Core/Library/bsp/src/bsp_flash.c:213:6:bsp_flash_program_word	1
+../Core/Library/bsp/src/bsp_flash.c:226:6:bsp_flash_program_doubleword	1

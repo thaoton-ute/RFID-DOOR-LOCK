@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;smart_door&apos; to &apos;rfid_feature&apos;" description="Rename resource &apos;smart_door&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/smart_door" name="rfid_feature" stamp="1692949752007" updateReferences="true"/>
+</session>

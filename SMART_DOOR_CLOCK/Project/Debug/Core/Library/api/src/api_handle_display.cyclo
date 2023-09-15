@@ -1,0 +1,14 @@
+../Core/Library/api/src/api_handle_display.c:31:6:h_display_tap_master_card	1
+../Core/Library/api/src/api_handle_display.c:38:6:h_display_time	1
+../Core/Library/api/src/api_handle_display.c:55:6:h_wrong_card	1
+../Core/Library/api/src/api_handle_display.c:63:6:h_wrong_pass	1
+../Core/Library/api/src/api_handle_display.c:71:6:h_timeout	1
+../Core/Library/api/src/api_handle_display.c:79:6:h_block	1
+../Core/Library/api/src/api_handle_display.c:87:6:h_save_successful	1
+../Core/Library/api/src/api_handle_display.c:95:6:h_display_enter_new_pass	1
+../Core/Library/api/src/api_handle_display.c:102:6:h_display_enter_current_pass	1
+../Core/Library/api/src/api_handle_display.c:111:6:h_display_tap_new_card	1
+../Core/Library/api/src/api_handle_display.c:118:6:h_display_choose_mode	1
+../Core/Library/api/src/api_handle_display.c:125:6:h_display_open_door	1
+../Core/Library/api/src/api_handle_display.c:132:6:h_display_close_door	1
+../Core/Library/api/src/api_handle_display.c:139:6:open_door	1

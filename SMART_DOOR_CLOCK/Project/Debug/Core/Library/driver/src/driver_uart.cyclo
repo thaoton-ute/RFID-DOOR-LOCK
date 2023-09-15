@@ -1,0 +1,3 @@
+../Core/Library/driver/src/driver_uart.c:22:6:uart_init	1
+../Core/Library/driver/src/driver_uart.c:27:6:uart_transmit	1
+../Core/Library/driver/src/driver_uart.c:32:6:uart_receive_it	1

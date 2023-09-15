@@ -1,0 +1,13 @@
+../Core/Library/api/src/api_flash.c:53:6:flash_load	3
+../Core/Library/api/src/api_flash.c:74:8:count_event_in_sector	4
+../Core/Library/api/src/api_flash.c:101:6:save_time_to_flash	2
+../Core/Library/api/src/api_flash.c:125:6:read_time_from_flash	1
+../Core/Library/api/src/api_flash.c:132:6:save_current_sector_to_flash	1
+../Core/Library/api/src/api_flash.c:137:10:read_current_sector_from_flash	1
+../Core/Library/api/src/api_flash.c:144:10:switch_to_next_sector	2
+../Core/Library/api/src/api_flash.c:156:6:flash_read_and_send_uart	2
+../Core/Library/api/src/api_flash.c:174:6:flash_load_password	1
+../Core/Library/api/src/api_flash.c:182:8:count_password_in_sector	6
+../Core/Library/api/src/api_flash.c:210:6:save_password_to_flash	2
+../Core/Library/api/src/api_flash.c:230:6:read_password_from_flash	1
+../Core/Library/api/src/api_flash.c:237:6:check_password	3

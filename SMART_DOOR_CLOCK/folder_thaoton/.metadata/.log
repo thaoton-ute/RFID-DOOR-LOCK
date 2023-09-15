@@ -1,0 +1,21 @@
+!SESSION 2023-08-25 14:47:12.983 -----------------------------------------------
+eclipse.buildId=Version 1.13.0
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\Thao\Intern\STM32\07-2023-itr-intern-group-3\SMART_DOOR_CLOCK\folder_thaoton
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-08-25 14:47:28.222
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-08-25 14:47:28.245
+!MESSAGE Log4j2 initialized with config file D:\Thao\Intern\STM32\07-2023-itr-intern-group-3\SMART_DOOR_CLOCK\folder_thaoton\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-08-25 14:47:36.992
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-08-25 14:48:29.023
+!MESSAGE Indexed 'smart_door' (22 sources, 111 headers) in 13.1 sec: 9,499 declarations; 43,090 references; 2 unresolved inclusions; 42 syntax errors; 147 unresolved names (0.28%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-08-25 14:49:20.647
+!MESSAGE Indexed 'rfid_feature' (22 sources, 111 headers) in 5.68 sec: 9,499 declarations; 43,090 references; 2 unresolved inclusions; 42 syntax errors; 147 unresolved names (0.28%)

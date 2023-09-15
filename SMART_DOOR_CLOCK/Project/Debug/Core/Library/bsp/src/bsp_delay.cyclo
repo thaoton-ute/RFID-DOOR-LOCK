@@ -1,0 +1,2 @@
+../Core/Library/bsp/src/bsp_delay.c:27:6:bsp_delay	1
+../Core/Library/bsp/src/bsp_delay.c:32:6:bsp_get_tick	1

@@ -1,0 +1,8 @@
+../Core/Library/api/src/api_rc522.c:41:6:flash_read_existing_card	6
+../Core/Library/api/src/api_rc522.c:71:6:check_have_master_card	4
+../Core/Library/api/src/api_rc522.c:87:6:handle_state_master_card	5
+../Core/Library/api/src/api_rc522.c:119:6:check_master_card	5
+../Core/Library/api/src/api_rc522.c:150:6:check_have_card_with_timeout	4
+../Core/Library/api/src/api_rc522.c:176:6:add_new_sub_card	17
+../Core/Library/api/src/api_rc522.c:245:6:check_card_to_access	9
+../Core/Library/api/src/api_rc522.c:297:6:check_have_card	2

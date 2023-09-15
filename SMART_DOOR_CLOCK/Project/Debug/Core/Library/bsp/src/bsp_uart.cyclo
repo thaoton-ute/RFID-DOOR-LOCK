@@ -1,0 +1,2 @@
+../Core/Library/bsp/src/bsp_uart.c:28:6:bsp_uart_transmit	2
+../Core/Library/bsp/src/bsp_uart.c:37:6:bsp_uart_receive_it	2

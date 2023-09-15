@@ -1,0 +1,2 @@
+../Core/Library/bsp/src/bsp_spi.c:18:19:bspGetSPI	2
+../Core/Library/bsp/src/bsp_spi.c:25:19:bsp_spi_transmit_receive	4

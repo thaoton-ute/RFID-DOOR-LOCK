@@ -1,0 +1,4 @@
+../Core/Library/bsp/src/bsp_gpio.c:33:6:bsp_gpio_set_pin	1
+../Core/Library/bsp/src/bsp_gpio.c:37:6:bsp_gpio_reset_pin	1
+../Core/Library/bsp/src/bsp_gpio.c:41:6:bsp_gpio_toggle_pin	1
+../Core/Library/bsp/src/bsp_gpio.c:45:15:bsp_gpio_read_pin	1

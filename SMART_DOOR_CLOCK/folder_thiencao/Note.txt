@@ -1,0 +1,6 @@
+"Whatever you want to do here is fine."
+--> muốn làm j trong folder này cũng được
+
+Ex: create project, viết lib and test, or add references, note,...
+
+Finally, complete (test ok,..) --> must copy lib (.c and .h) to folder "Library" (addr: SMART_DOOR_CLOCK/Library)

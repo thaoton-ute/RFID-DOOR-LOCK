@@ -1,0 +1,17 @@
+"Whatever you want to do here is fine."
+--> muốn làm j trong folder này cũng được
+
+Ex: create project, viết lib and test, or add references, note,...
+
+Finally, complete (test ok,..) --> must copy lib (.c and .h) to folder "Library" (addr: SMART_DOOR_CLOCK/Library)
+
+-----------------------------------------------------------------------------
+1. trong main: ds1307_init(&hi2c1); --> ds1307_set_date_time(...)
+				    --> sau khi chạy xong lần đầu để set thời gian thực cho ds1307
+				       thì comment dòng này và chạy lại để trường hợp mất nguồn thì 
+                                       khi khởi động lại sẽ không set lại thời gian cũ này. 
+ 				       (ds1307 tự động duy trì thgian chính xác nhờ pin (có thể 2-10 năm))
+
+2. Các hàm API lớp manager or application:
+timer_manager:
+	- char *date_display() và char *time_display() --> trả về chuỗi để hiển thị LCD
