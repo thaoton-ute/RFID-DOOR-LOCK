@@ -7,6 +7,7 @@
   - [Modules](#modules)
   - [Block Diagram](#block-diagram)
   - [Schematic](#schematic)
+  - [Sequence Diagram](#sequence-diagram)
   - [References](#references)
 
 ---
@@ -53,6 +54,12 @@
 
 ![example](smartdoor.png)
 **Miss: use uart to connect PC**
+
+---
+
+## Sequence Diagram
+
+![example](sequence_diagram.png)
 
 ---
 
